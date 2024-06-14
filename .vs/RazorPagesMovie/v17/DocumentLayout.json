@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\migue\\source\\repos\\RazorPagesMovie\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EDBF7E94-5235-4681-8505-EDC9CC7070BD}|RazorPagesMovie.csproj|c:\\users\\migue\\source\\repos\\razorpagesmovie\\migrations\\20240612154859_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBF7E94-5235-4681-8505-EDC9CC7070BD}|RazorPagesMovie.csproj|solutionrelative:migrations\\20240612154859_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EDBF7E94-5235-4681-8505-EDC9CC7070BD}|RazorPagesMovie.csproj|c:\\users\\migue\\source\\repos\\razorpagesmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDBF7E94-5235-4681-8505-EDC9CC7070BD}|RazorPagesMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBF7E94-5235-4681-8505-EDC9CC7070BD}|RazorPagesMovie.csproj|c:\\users\\migue\\source\\repos\\razorpagesmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBF7E94-5235-4681-8505-EDC9CC7070BD}|RazorPagesMovie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240612154859_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\RazorPagesMovie\\Migrations\\20240612154859_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240612154859_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\RazorPagesMovie\\Migrations\\20240612154859_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240612154859_InitialCreate.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwCEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:48:59.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\RazorPagesMovie\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\RazorPagesMovie\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:54:44.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\RazorPagesMovie\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "Models\\Movie.cs",
               "ToolTip": "C:\\Users\\migue\\source\\repos\\RazorPagesMovie\\Models\\Movie.cs",
               "RelativeToolTip": "Models\\Movie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T20:59:20.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T20:59:20.063Z"
             }
           ]
         }
